@@ -9,7 +9,7 @@ As the name implies, this is an ad-blocking Xposed module
 
 ---
 
-**English | [简体中文](https://github.com/hujiayucc/Fuck-AD/blob/master/README-zh_CN.md)**
+**English | [简体中字](https://github.com/hujiayucc/Fuck-AD/blob/master/README-zh_CN.md)**
 
 [![Stars](https://img.shields.io/github/stars/hujiayucc/Fuck-AD?label=stars)](https://github.com/hujiayucc/Fuck-AD)
 [![Release](https://img.shields.io/github/v/release/hujiayucc/Fuck-AD?include_prereleases)](https://github.com/Xposed-Modules-Repo/com.hujiayucc.hook/releases/latest)
@@ -42,9 +42,6 @@ As the name implies, this is an ad-blocking Xposed module
 - 百度网盘
 - 伴生活
 - 哔哩哔哩
-- 次元城动画
-- 抖音
-- 豆瓣
 - 疯狂刷题
 - 虎牙直播
 - 酷安
